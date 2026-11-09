@@ -1,0 +1,81 @@
+Asunto: Un programa sencillo para poner contraseña a tus documentos
+
+Hola Pilar,
+
+Te mando un pequeño programa para tu ordenador. Sirve para ponerle una
+contraseña a tus documentos PDF y Excel, para que nadie pueda abrirlos sin
+esa contraseña. Es muy fácil de usar, y todo pasa dentro de tu propio
+ordenador: tus documentos no se suben a internet en ningún momento.
+
+Te explico los pasos muy despacio, uno a uno. No tienes que entender nada
+de ordenadores para seguirlos.
+
+-------------------------------------------------
+PASO 1 — Descargar el programa
+-------------------------------------------------
+Pulsa en este enlace: [PEGA AQUÍ EL ENLACE DE DESCARGA]
+
+Se descargará un archivo. Normalmente aparece abajo, en una barra de tu
+navegador (Chrome o Edge), o lo puedes encontrar luego en tu carpeta
+"Descargas".
+
+-------------------------------------------------
+PASO 2 — Guardarlo en el Escritorio
+-------------------------------------------------
+Abre la carpeta "Descargas" (desde el icono de carpetas de la barra de
+tareas, o desde el propio navegador). Busca el archivo
+"Protector de documentos.exe". Pulsa sobre él con el botón izquierdo y,
+sin soltar, arrástralo hasta el Escritorio. Así lo tendrás siempre a mano,
+con un icono de candado.
+
+-------------------------------------------------
+PASO 3 — La primera vez que lo abras
+-------------------------------------------------
+Haz doble clic en el icono del candado, en el Escritorio.
+
+Es posible que te salga una pantalla azul que dice algo como
+"Windows protegió tu PC". NO PASA NADA, es totalmente normal: le pasa a
+cualquier programa nuevo que no sea muy conocido todavía, igual que a este.
+Para seguir, solo tienes que hacer esto, UNA SOLA VEZ:
+
+   1. Pulsa donde dice "Más información" (en letra pequeña).
+   2. Te aparecerá un botón nuevo: "Ejecutar de todos modos". Púlsalo.
+
+Con eso es suficiente. Las siguientes veces que lo abras no volverá a
+preguntarte nada.
+
+-------------------------------------------------
+PASO 4 — Usarlo
+-------------------------------------------------
+Se abrirá sola una ventana en tu navegador de internet (aunque el programa
+no necesita internet para funcionar). Verás dos tarjetas: una para PDF y
+otra para Excel. Sigue los 3 pasos que verás en la pantalla: elegir el
+archivo, escribir la contraseña dos veces, y pulsar el botón azul grande
+"Proteger documento".
+
+Cada documento que protejas se guardará también, automáticamente, en una
+carpeta de tu Escritorio llamada "Documentos protegidos", para que siempre
+lo tengas a mano, aunque hayan pasado unos días.
+
+Te adjunto también una guía de 5 pasos con esto mismo, por si quieres
+tenerla a mano la primera vez.
+
+-------------------------------------------------
+Si tienes alguna duda sobre la seguridad
+-------------------------------------------------
+Este programa lo he revisado yo misma y es seguro: no manda nada a
+internet, no instala nada más, y no necesita permisos especiales. El aviso
+de Windows del Paso 3 es solo porque el programa es nuevo para tu
+ordenador, no porque tenga ningún problema.
+
+Lo único que te pido es que NUNCA desactives tu antivirus para abrirlo: eso
+nunca hace falta, y sí sería peligroso. Si en algún momento tu ordenador no
+te deja continuar ni con los pasos de arriba (por ejemplo, porque es un
+ordenador del trabajo con más restricciones), no fuerces nada: avísame y lo
+miramos juntas, o lo comentas con el departamento de informática de tu
+empresa para que lo autoricen.
+
+Cualquier duda, me escribes y te ayudo encantada.
+
+Un abrazo,
+Alicia

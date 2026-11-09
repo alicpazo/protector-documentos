@@ -1,0 +1,38 @@
+name: Generar ejecutable de Windows
+
+# Esto permite generar el .exe de Windows SIN tener un PC con Windows:
+# GitHub presta un ordenador con Windows durante un par de minutos,
+# ejecuta build.bat en él, y deja el .exe listo para descargar.
+#
+# Como usarlo:
+#   1. Sube este proyecto a un repositorio de GitHub (puede ser privado).
+#   2. Ve a la pestaña "Actions" del repositorio.
+#   3. Elige "Generar ejecutable de Windows" y pulsa "Run workflow".
+#   4. Cuando termine (2-3 minutos), entra en esa ejecución y descarga
+#      el archivo "Protector-de-documentos-Windows" en "Artifacts".
+#      Dentro encontrarás "Protector de documentos.exe".
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Construir el ejecutable
+        shell: cmd
+        run: build.bat
+
+      - name: Subir el ejecutable generado
+        uses: actions/upload-artifact@v4
+        with:
+          name: Protector-de-documentos-Windows
+          path: dist/Protector de documentos.exe

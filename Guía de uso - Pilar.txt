@@ -1,0 +1,7 @@
+GUÍA DE USO — Protector de documentos
+
+1. Haz doble clic en "Protector de documentos.exe" (el icono del candado). Se abrirá solo en tu navegador.
+2. Elige la tarjeta "Proteger un PDF" o "Proteger un Excel", según lo que necesites.
+3. Arrastra tu archivo a la casilla, o pulsa sobre ella para buscarlo en tu ordenador.
+4. Escribe la contraseña dos veces y pulsa el botón azul "Proteger documento". Apúntala en un lugar seguro: si la olvidas, no se puede recuperar.
+5. Cuando veas el mensaje verde "¡Listo!", tu documento ya está protegido y tendrás siempre una copia en la carpeta "Documentos protegidos" de tu Escritorio.

@@ -1,0 +1,43 @@
+Asunto: Programa para poner contraseña a tus documentos
+
+Hola,
+
+Te escribo para pasarte un pequeño programa que te va a resultar muy útil:
+sirve para ponerle una contraseña a tus documentos PDF y Excel, para que
+nadie pueda abrirlos sin tu contraseña. Es muy sencillo de usar y funciona
+todo en tu propio ordenador: los documentos nunca se suben a internet.
+
+Sigue estos pasos:
+
+1. DESCARGAR EL PROGRAMA
+   Pulsa en este enlace para descargarlo: [PEGA AQUÍ EL ENLACE DE DESCARGA]
+   Se descargará un archivo comprimido llamado
+   "Protector de documentos.zip".
+
+2. ABRIRLO Y GUARDARLO EN EL ESCRITORIO
+   Haz doble clic en el archivo .zip para descomprimirlo: aparecerá
+   "Protector de documentos.app". Arrástralo hasta el Escritorio, para
+   tenerlo siempre a mano. Puedes borrar el .zip.
+
+3. LA PRIMERA VEZ QUE LO ABRAS
+   El Mac no conoce todavía este programa y, la primera vez, te avisará
+   de que viene de un "desarrollador no identificado". No pasa nada, es
+   normal con cualquier programa nuevo. Para abrirlo:
+     - Haz clic derecho (o pulsa con dos dedos) sobre el icono del candado.
+     - Elige "Abrir" en el menú.
+     - Te aparecerá un aviso; pulsa de nuevo "Abrir" para confirmar.
+   Si tu Mac no te deja con esos pasos, ve a "Configuración del sistema"
+   → "Privacidad y seguridad", baja hasta el final y pulsa "Abrir de
+   todos modos" junto al nombre del programa.
+   Solo tendrás que hacer esto la primera vez.
+
+4. USARLO
+   A partir de ahora, haz doble clic en el icono del candado y se abrirá
+   solo en tu navegador de internet (aunque no necesita internet para
+   funcionar). Te adjunto también una guía rápida con los pasos para
+   usarlo.
+
+Cualquier duda, me escribes y te ayudo encantada.
+
+Un abrazo,
+Alicia
