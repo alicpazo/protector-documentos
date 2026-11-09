@@ -13,7 +13,7 @@ de ordenadores para seguirlos.
 -------------------------------------------------
 PASO 1 — Descargar el programa
 -------------------------------------------------
-Pulsa en este enlace: [PEGA AQUÍ EL ENLACE DE DESCARGA]
+Pulsa en este enlace: https://github.com/alicpazo/protector-documentos/releases/download/v1.0.0/Protector.de.documentos.exe
 
 Se descargará un archivo. Normalmente aparece abajo, en una barra de tu
 navegador (Chrome o Edge), o lo puedes encontrar luego en tu carpeta
